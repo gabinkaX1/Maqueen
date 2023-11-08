@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="S_bB2Z3V]Ehd(lKi@|n=">myImage</variable><variable id="Ji0p`n{0n.`.rD45=AP$">create image</variable></variables><block type="device_forever" id="m1m`=UJZBS|6I6YQzPxW" x="0" y="0"><statement name="HANDLER"><block type="device_show_image_offset" id="y(B@JLL6Rk3B:c3PQ=Zq"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="sprite"><block type="variables_get" id="/u*`LbFbVM=`,bAE772k"><field name="VAR" id="Ji0p`n{0n.`.rD45=AP$">create image</field></block></value><value name="offset"><shadow type="math_number" id="8oXzQT^PZ;flw#8y/B5["><field name="NUM">0</field></shadow></value><value name="interval"><shadow type="math_number" id="zM{.h#Usqk=q74_hYA`{"><field name="NUM">400</field></shadow></value></block></statement></block><block type="device_build_image" id="VlZ]2f86nd3tviAaiPIQ" disabled="true" x="35" y="174"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></xml>
